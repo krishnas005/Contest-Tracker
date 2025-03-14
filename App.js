@@ -30,7 +30,7 @@ export default function App() {
             if (route.name === 'LeetCode') {
               iconSource = require('./assets/icons/leetcode.webp');
             } else if (route.name === 'CodeChef') {
-              iconSource = require('./assets/icons/codechef.webp');
+              iconSource = require('./assets/icons/codechef.png');
             } else if (route.name === 'Codeforces') {
               iconSource = require('./assets/icons/codeforces.webp');
             }
